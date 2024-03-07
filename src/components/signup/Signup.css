@@ -1,0 +1,11 @@
+.Signup_page {
+  /* background-image: url("../../../public/images/signup_bkg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; */
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

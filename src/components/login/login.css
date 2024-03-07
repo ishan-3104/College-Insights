@@ -1,0 +1,58 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* position: absolute; */
+  height: 100vh;
+  /* background: rgb(9, 95, 196);
+  background: linear-gradient(
+    151deg,
+    rgba(9, 95, 196, 1) 0%,
+    rgba(126, 51, 224, 1) 18%,
+    rgba(213, 65, 143, 1) 100%
+  ); */
+}
+.login_card {
+  border-radius: 10px;
+  -webkit-box-shadow: -0.5px -2.5px 32px 22px #dddddd;
+  -moz-box-shadow: -0.5px -2.5px 32px 22px #dddddd;
+  box-shadow: -0.5px -2.5px 32px 22px #dddddd;
+  width: 70%;
+}
+.login-form-button {
+  width: 100%;
+}
+.login_image_container {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.login_page_image {
+  width: 100%;
+  height: 100%;
+}
+.login_content {
+  text-align: center;
+  width: 45%;
+}
+.login_page_logo_image {
+  width: 150px;
+  height: 150px;
+}
+h1 {
+  margin-bottom: 0px;
+}
+p {
+  margin-top: 0px;
+}
+.forgot_pass_text {
+  text-align: right;
+  cursor: pointer;
+}
